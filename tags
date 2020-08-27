@@ -1,0 +1,25 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+Bottles	bottles.rb	/^class Bottles$/;"	c
+BottlesTest	bottles_test.rb	/^class BottlesTest < Minitest::Test$/;"	c	inherits:Minitest.Test
+MyBottles	my_bottles.rb	/^class MyBottles$/;"	c
+MyBottlesTest	my_bottles_test.rb	/^class MyBottlesTest < Minitest::Test$/;"	c	inherits:Minitest.Test
+song	bottles.rb	/^  def song$/;"	f	class:Bottles
+test_a_couple_verses	bottles_test.rb	/^  def test_a_couple_verses$/;"	f	class:BottlesTest
+test_a_couple_verses	my_bottles_test.rb	/^  def test_a_couple_verses$/;"	f	class:MyBottlesTest
+test_a_few_verses	bottles_test.rb	/^  def test_a_few_verses$/;"	f	class:BottlesTest
+test_a_few_verses	my_bottles_test.rb	/^  def test_a_few_verses$/;"	f	class:MyBottlesTest
+test_another_verse	bottles_test.rb	/^  def test_another_verse$/;"	f	class:BottlesTest
+test_another_verse	my_bottles_test.rb	/^  def test_another_verse$/;"	f	class:MyBottlesTest
+test_the_first_verse	bottles_test.rb	/^  def test_the_first_verse$/;"	f	class:BottlesTest
+test_the_first_verse	my_bottles_test.rb	/^  def test_the_first_verse$/;"	f	class:MyBottlesTest
+test_the_whole_song	bottles_test.rb	/^  def test_the_whole_song$/;"	f	class:BottlesTest
+test_verge_1	my_bottles_test.rb	/^  def test_verge_1$/;"	f	class:MyBottlesTest
+test_verse_0	bottles_test.rb	/^  def test_verse_0$/;"	f	class:BottlesTest
+test_verse_1	bottles_test.rb	/^  def test_verse_1$/;"	f	class:BottlesTest
+test_verse_2	bottles_test.rb	/^  def test_verse_2$/;"	f	class:BottlesTest
+test_verse_2	my_bottles_test.rb	/^  def test_verse_2$/;"	f	class:MyBottlesTest
+verse	bottles.rb	/^  def verse(number)$/;"	f	class:Bottles
+verse	my_bottles.rb	/^  def verse(number)$/;"	f	class:MyBottles
+verses	bottles.rb	/^  def verses(starting, ending)$/;"	f	class:Bottles
+verses	my_bottles.rb	/^  def verses(first_bottle, second_bottle)$/;"	f	class:MyBottles
