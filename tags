@@ -4,6 +4,7 @@ Bottles	bottles.rb	/^class Bottles$/;"	c
 BottlesTest	bottles_test.rb	/^class BottlesTest < Minitest::Test$/;"	c	inherits:Minitest.Test
 MyBottles	my_bottles.rb	/^class MyBottles$/;"	c
 MyBottlesTest	my_bottles_test.rb	/^class MyBottlesTest < Minitest::Test$/;"	c	inherits:Minitest.Test
+panagram?	6_kyu_detect_pangram.rb	/^def panagram?(string)$/;"	f	class:Object
 song	bottles.rb	/^  def song$/;"	f	class:Bottles
 test_a_couple_verses	bottles_test.rb	/^  def test_a_couple_verses$/;"	f	class:BottlesTest
 test_a_couple_verses	my_bottles_test.rb	/^  def test_a_couple_verses$/;"	f	class:MyBottlesTest
